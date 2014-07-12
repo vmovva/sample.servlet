@@ -1,9 +1,9 @@
 Servlet Sample
 ==============
 
-This sample project contains a simple Servlet application.
+This project contains a simple Servlet application.
 
-## Running 
+## Running in Eclipse
 
 1. Download and install [Eclipse with the WebSphere Developer Tools](https://developer.ibm.com/wasdev/downloads/liberty-profile-using-eclipse/).
 2. Create a new Liberty Profile Server. See [step 3](https://developer.ibm.com/wasdev/downloads/liberty-profile-using-eclipse/) for details.
