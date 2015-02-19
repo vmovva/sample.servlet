@@ -20,6 +20,7 @@ public class SimpleServlet extends HttpServlet {
      */
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+        response.setContentType("text/html");
         response.getWriter().print("<h1><font color=green>Simple Servlet ran successfully</font></h1>"
                                    + "Powered by WebSphere Application Server Liberty Profile");
     }
