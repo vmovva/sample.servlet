@@ -23,7 +23,7 @@ Use the following steps to run the application with Maven:
     $ mvn clean install
     ```
 
-2. To run the server with the Ferret sample execute:
+2. To run the server with the Servlet sample execute:
     ```bash
     $ mvn liberty:run-server
     ```
